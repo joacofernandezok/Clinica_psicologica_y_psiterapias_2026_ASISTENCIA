@@ -1,0 +1,3 @@
+URL_FORMULARIO=https://docs.google.com/forms/d/e/1FAIpQLSdfEXAMPLE_LINK_AQUI/viewform
+ID_PREGUNTA=entry.123456789
+CANTIDAD_QRS=60
